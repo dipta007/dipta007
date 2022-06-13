@@ -1,12 +1,12 @@
 ### Hi there 👋
 # 💫About Me :
-🔭 I’m currently working as a Research Assistant in Natural Language Understanding Lab at [UMBC](https://umbc.edu/). 
-👨🏻‍💻 I’m currently learning more about Deep Learning, Natural Language Processing.
- 👥 I’m looking to collaborate on my research .
-💬 Ask me about any tech-related stuff.
- 📫 How to reach me: Email - [sroydip1@umbc.edu](mailto:sroydip1@umbc.edu) | [iamdipta@gmail.com](mailto:iamdipta@gmail.com) 
-😄 Pronouns: He/His/Him 
-⚡ Fun fact: I take rest by solving programming problems at [Leetcode](https://leetcode.com/)
+🔭 I’m currently working as a Research Assistant in Natural Language Understanding Lab at [UMBC](https://umbc.edu/).   
+👨🏻‍💻 I’m currently learning more about Deep Learning, Natural Language Processing.  
+ 👥 I’m looking to collaborate on my research .  
+💬 Ask me about any tech-related stuff.  
+ 📫 How to reach me: Email - [sroydip1@umbc.edu](mailto:sroydip1@umbc.edu) | [iamdipta@gmail.com](mailto:iamdipta@gmail.com)   
+😄 Pronouns: He/His/Him   
+⚡ Fun fact: I take rest by solving programming problems at [Leetcode](https://leetcode.com/)  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamdipta007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamdipta007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipta007) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dipta007) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shubhashis-Roy-Dipta-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Relative_Tip_3647) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4536846) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamdipta007) 
