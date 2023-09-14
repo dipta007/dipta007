@@ -20,6 +20,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Relative_Tip_3647)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4536846) 
 -->
+[![](https://visitcount.itsvg.in/api?id=dipta007&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- 
 # 💻Tech Stack
@@ -32,15 +33,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipta007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-
+<!-- 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dipta007&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-->
 
----
+<!--
 [![](https://visitcount.itsvg.in/api?id=dipta007&icon=0&color=5)](https://visitcount.itsvg.in)
+-->
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dipta007) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iamdipta007) 
