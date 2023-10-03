@@ -1,11 +1,10 @@
 
 ## 👋 About Me :
-🔭 Research Assistant in Natural Language Understanding Lab at [UMBC](https://umbc.edu/).  
-📚 **Specialization**: Machine Learning, Natural Language Processing, Computer Vision.  
-👨🏻‍💻 Learning: Deep Learning, Natural Language Processing, Computer Vision.  
+🔭 Research Assistant in [Natural Language Understanding Lab](https://iral.cs.umbc.edu/people.html) at [UMBC](https://umbc.edu/).  
+📚 **Specialization**: Natural Language Processing, Computer Vision, Machine Learning.  
 👥 Wanna collaborate on Research? [Contact me](mailto:sroydip1@umbc.edu).  
 📫 How to reach me: Email - [sroydip1@umbc.edu](mailto:sroydip1@umbc.edu) | [iamdipta@gmail.com](mailto:iamdipta@gmail.com)  
-⚡ Fun fact: I take a rest by solving programming problems on [Leetcode](https://leetcode.com/)  
+⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com/)  
 🌎 Portfolio: [ShubhashisRoyDipta.com](https://shubhashisroydipta.com/)  
 ✍️ Writes on: [dipta007.com](http://dipta007.com/)
 
