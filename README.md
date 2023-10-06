@@ -2,9 +2,8 @@
 ## 👋 About Me :
 🔭 Research Assistant in [Natural Language Understanding Lab](https://iral.cs.umbc.edu/people.html) at [UMBC](https://umbc.edu/).  
 📚 **Specialization**: Natural Language Processing, Computer Vision, Machine Learning.  
-👥 Wanna collaborate on Research? [Contact me](mailto:sroydip1@umbc.edu).  
-📫 How to reach me: Email - [sroydip1@umbc.edu](mailto:sroydip1@umbc.edu) | [iamdipta@gmail.com](mailto:iamdipta@gmail.com)  
-⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com/)  
+👥 Wanna collaborate on Research? ✉️ [sroydip1@umbc.edu](mailto:sroydip1@umbc.edu) | [iamdipta@gmail.com](mailto:iamdipta@gmail.com)  
+⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com/dipta007) and [various sites](https://github.com/dipta007/Competitive-Programming)  
 🌎 Portfolio: [ShubhashisRoyDipta.com](https://shubhashisroydipta.com/)  
 ✍️ Writes on: [dipta007.com](http://dipta007.com/)
 
@@ -78,8 +77,11 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) 
 
+
+<!--
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dipta007&theme=dark&hide_border=false)<br/>
+-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
