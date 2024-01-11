@@ -1,5 +1,5 @@
 
-## 👋 About Me : 🏠 [ShubhashisRoyDipta.com](https://shubhashisroydipta.com/?utm_source=github&utm_medium=about-front-page)  
+## 🏠 [Shubhashis Roy Dipta](https://shubhashisroydipta.com/?utm_source=github&utm_medium=about-front-page)  
 ✍️ [Writes](https://notes.dipta007.com/?utm_source=github&utm_medium=about-front-page) and 📰 [Blogs](https://dipta007.com/?utm_source=github&utm_medium=about-front-page)  
 🔭 Research Assistant in [Natural Language Understanding Lab](https://iral.cs.umbc.edu/people.html) at [UMBC](https://umbc.edu/).  
 📚 **Specialization**: Natural Language Processing, Computer Vision, Machine Learning.  
