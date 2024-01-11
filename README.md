@@ -4,7 +4,7 @@
 🔭 Research Assistant in [Natural Language Understanding Lab](https://iral.cs.umbc.edu/people.html) at [UMBC](https://umbc.edu/).  
 📚 **Specialization**: Natural Language Processing, Computer Vision, Machine Learning.  
 👥 Wanna collaborate on Research? ✉️ [sroydip1@umbc.edu](mailto:sroydip1@umbc.edu) | [iamdipta@gmail.com](mailto:iamdipta@gmail.com)  
-⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com/dipta007/LeetCode) and [various sites](https://github.com/dipta007/Competitive-Programming)  
+⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://github.com/dipta007/LeetCode) and [various sites](https://github.com/dipta007/Competitive-Programming)  
 
 
 ### 🌐 Socials
