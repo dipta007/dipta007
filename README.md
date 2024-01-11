@@ -1,11 +1,11 @@
 
-## 👋 About Me :
+## 👋 About Me : 🏠 [ShubhashisRoyDipta.com](https://shubhashisroydipta.com/?utm_source=github&utm_medium=about-front-page)  
+✍️ [Writes](https://notes.dipta007.com/?utm_source=github&utm_medium=about-front-page) and 📰 [Blogs](https://dipta007.com/?utm_source=github&utm_medium=about-front-page)  
 🔭 Research Assistant in [Natural Language Understanding Lab](https://iral.cs.umbc.edu/people.html) at [UMBC](https://umbc.edu/).  
 📚 **Specialization**: Natural Language Processing, Computer Vision, Machine Learning.  
 👥 Wanna collaborate on Research? ✉️ [sroydip1@umbc.edu](mailto:sroydip1@umbc.edu) | [iamdipta@gmail.com](mailto:iamdipta@gmail.com)  
-⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com/dipta007) and [various sites](https://github.com/dipta007/Competitive-Programming)  
-🌎 Portfolio: [ShubhashisRoyDipta.com](https://shubhashisroydipta.com/?utm_source=github&utm_medium=about-front-page)  
-✍️ [Notes](https://notes.dipta007.com/), [Blog](https://dipta007.com/)
+⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com/dipta007/LeetCode) and [various sites](https://github.com/dipta007/Competitive-Programming)  
+
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipta007)
